@@ -15,7 +15,8 @@
 - [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
-Проверка окружения для разработки (`cmake`, `curl` и ...)
+Проверка окружения для разработки (`cmake`, `curl`, `git`, `g++`, `hub`, `make`, 
+                                  `sublime text 3`, `tree`,`wget`, `openssl`)
 ```sh
 # Проверка версии CMAKE
 $ cmake --version
