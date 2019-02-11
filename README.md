@@ -34,13 +34,17 @@ g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
 
 # Проверка версии HUB
 $ hub --version
-# Проверка версии CURL
+hub version 2.8.4
+
+# Проверка версии MAKE
 $ make --version
 GNU Make 4.1
 Built for i686-pc-cygwin
 
 # Проверка версии SUBLIME TEXT 3
 $ subl --version
+Sublime Text Build 3176
+
 # Проверка версии TREE
 $ tree --version
 tree v1.7.0 (c) 1996 - 2014 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
