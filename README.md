@@ -21,12 +21,17 @@
 $ cmake --version
 # Проверка версии CURL
 $ curl --version
+curl 7.41.0 (i686-pc-cygwin)
 $ git --version
 $ g++ --version
 $ hub --version
 $ make --version
+GNU Make 4.1
+Built for i686-pc-cygwin
 $ subl --version
+# Проверка версии TREE
 $ tree --version
+tree v1.7.0 (c) 1996 - 2014 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
 $ wget --version
 $ openssl version
 ```
