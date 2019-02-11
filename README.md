@@ -17,25 +17,43 @@
 ## Tutorial
 Проверка окружения для разработки (`cmake`, `curl` и ...)
 ```sh
-
+# Проверка версии CMAKE
 $ cmake --version
+
 # Проверка версии CURL
 $ curl --version
 curl 7.41.0 (i686-pc-cygwin)
+
+# Проверка версии GIT
 $ git --version
+git version 2.1.4
+
+# Проверка версии G++
 $ g++ --version
+g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+
+# Проверка версии HUB
 $ hub --version
+# Проверка версии CURL
 $ make --version
 GNU Make 4.1
 Built for i686-pc-cygwin
+
+# Проверка версии SUBLIME TEXT 3
 $ subl --version
 # Проверка версии TREE
 $ tree --version
 tree v1.7.0 (c) 1996 - 2014 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
-$ wget --version
-$ openssl version
-```
 
+# Проверка версии WGET
+$ wget --version
+GNU Wget 1.16.3 built on cygwin.
+
+# Проверка версии OPENSSL
+$ openssl version
+OpenSSL 1.0.2a 19 Mar 2015
+
+```
 ## Links
 
 - [Slack](https://slack.com)
