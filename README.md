@@ -16,10 +16,12 @@
 - [ ] A. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
-
+Проверка окружения для разработки ('cmake', 'curl' и ...)
 ```sh
+
 # check development environment
 $ cmake --version
+# Проверка версии CURL
 $ curl --version
 $ git --version
 $ g++ --version
