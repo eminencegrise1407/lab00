@@ -19,7 +19,6 @@
 Проверка окружения для разработки ('cmake', 'curl' и ...)
 ```sh
 
-# check development environment
 $ cmake --version
 # Проверка версии CURL
 $ curl --version
